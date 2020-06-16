@@ -4,7 +4,7 @@
 
 ### Meeting Agendas and Minutes for
 
-- Association Board
-- Facilities and Grounds Committee
-- Rules and Covenants Committee
-- Social Committee
+- Association Board (board)
+- Facilities and Grounds Committee (fng)
+- Rules and Covenants Committee (rnc)
+- Social Committee (social)
