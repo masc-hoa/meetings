@@ -18,6 +18,13 @@ Monday, August 8 2022, 7pm
          - Updates on conversations with AFA Protective Systems, current security vendor. Chair is trying to get AFA rep. to send proposal for inspection of existing equipment, including camera viewing software. AFA noted the last inspection was a one-time task order from several years ago. The AFA rep. has become less responsive lately. AFA recommended inspection of existing equipment as a first step in our effort to evaluate upgrades
          - Committee has Kastle Security’s updated proposal, received on May 6.
       2. Electrical Vehicle chargers
+         - MGMT received two proposals…so far… for electrical work/EV install - garage installation only:   March 2022 - from Limbach, Inc. ($49,040);  May 2022 - BrennCo. Electrical Services ($51,000)
+         - F&G Chair contacted SemaConnect regional sales rep. and will setup a informational call w/ any committee members and property manager, as well as any Board members.
+         - Considerations for ChargePoint, a different EV charger brand 
+         - MGMT contacting other electrician/installation vendors to get quotes.
+         - Committee member explained personal knowledge about Siemens EV chargers: There’s no interaction w/ a third party.  SemaConnect is less restrictive.   Committee needs to ask ChargePoint about vendor lock in (i.e., is charger software still useful without ChargePoint service?  What happens when a user only wants to use box only and not use ChargePoint service/connectivity?)
+         - Board liaison asked if Committee thought about using chargers as a revenue stream?  Marc gave recap of my conversation w/ Eric over the past couple of weeks:  Installing EV chargers in visitors lot to allow non-residents to access for a fee – Midtown owners/renters should not be charged a fee except beyond a certain timeframe (e.g., 3 hours).  
+         - Committee needs to ask MGMT/Building Engineer if the visitors lot has existing electrical connectivity via the lighting poles electricity source.
    2. Other
       1. Garage water sprinkler pipes- Check w/ Management for updates.
       2. Research on BuildingLink, a residential management platform, as a possible option to replace TownSquare. Board and F&G Committee members, along with Management, talked to another L&N condo property that uses BuildingLink. Debrief from that meeting is pending.
